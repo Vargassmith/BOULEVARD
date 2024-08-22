@@ -52,12 +52,13 @@ img {
 }
 
 .circulo-rosado {
-    color: palevioletred;
+    color: burlywood ;
 }
 .circulo-rosado:hover {
-    color: rgb(226, 80, 129);
+    color: rgb(204, 168, 122);
     transition: 4s;
 }
+
 
 .my-card:hover {
     transform: scale(1.1);
